@@ -1,6 +1,6 @@
 import sys
 import pandas as pd
-from src.excepation import CustomExcepation
+from src.exception import CustomExcepation
 from src.utils import load_object
 import os 
 
